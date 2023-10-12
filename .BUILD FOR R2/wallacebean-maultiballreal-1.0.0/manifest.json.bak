@@ -1,0 +1,9 @@
+{
+    "name": "MultiBallReal",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/wallacebean/MultiBallReal",
+    "description": "simple mod that spawns multiple balls always. configurable",
+    "dependencies": [
+    "BepInEx-BepInExPack_LLBlaze-5.4.1900"
+    ]
+}

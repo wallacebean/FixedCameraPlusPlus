@@ -1,0 +1,9 @@
+{
+    "name": "FixedCameraPlusPlus",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/wallacebean/FixedCameraPlusPlus",
+    "description": "A very configurable mod that lets you control camera position and have a stage outline!",
+    "dependencies": [
+    "BepInEx-BepInExPack_LLBlaze-5.4.1900"
+    ]
+}
